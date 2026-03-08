@@ -1,6 +1,7 @@
 # 🎯 MicroGoal - Backend API Demo
 
-
+### 📺 Backend Demo
+*Watch the video below to see the JWT Authentication and CRUD operations in action using Thunder Client:*
 https://github.com/user-attachments/assets/77d6a250-5722-4195-866c-2d84d04430e3
 
 
