@@ -3,7 +3,7 @@
 ### 📺 Backend Demo
 *Watch the video below to see the JWT Authentication and CRUD operations in action using Thunder Client:*
 
-https://github.com/user-attachments/assets/77d6a250-5722-4195-866c-2d84d04430e3
+
 
 
 **MicroGoal** is a robust Node.js backend application designed to demonstrate a complete RESTful API workflow. It features secure user authentication, JWT-protected routes, and full CRUD (Create, Read, Update, Delete) functionality integrated with a MongoDB Atlas cloud database.
